@@ -1,4 +1,11 @@
 {
+  "name": "raw-node-api-project",
+  "version": "1.0.0",
+  "description": "A simple raw node api project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
   "dependencies": {
     "express": "^4.19.2"
   }
